@@ -20,7 +20,7 @@ const VOCABULARY_DATA = [
   { word: 'computer', image: '💻', meaning: 'Máy tính' },
   // D
   { word: 'duck', image: '🦆', meaning: 'Con vịt' },
-  { word: 'desk', image: '🪑', meaning: 'Cái bàn' },
+  { word: 'desk', image: '*', meaning: 'Cái bàn' },
   { word: 'dog', image: '🐶', meaning: 'Con chó' },
   { word: 'doll', image: '🎎', meaning: 'Búp bê' },
   // E
